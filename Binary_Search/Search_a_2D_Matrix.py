@@ -64,3 +64,6 @@ if __name__ == "__main__":
     
     print(f" {target} is in the {matrix}?: {result}")
     
+    
+    # Time Complexity : O(Logm + Logm)
+    #  Space Complexity: O(1)
